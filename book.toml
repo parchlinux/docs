@@ -1,0 +1,6 @@
+[book]
+authors = ["ParchLinux Dev Team"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Parch Linux Developer Docs"
