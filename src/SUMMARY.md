@@ -1,3 +1,6 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Get Started](./Getstarted.md)
+
+- [How to make a custom version of Parch](./customrelease/Start.md)
+    - [Fork the main repo](./customrelease/repo.md)
